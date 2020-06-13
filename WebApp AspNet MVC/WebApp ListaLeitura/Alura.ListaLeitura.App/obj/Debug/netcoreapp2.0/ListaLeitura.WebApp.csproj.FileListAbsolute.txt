@@ -1,0 +1,26 @@
+C:\Users\Rabi Mustapha\Desktop\WebApp AspNet MVC\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Views\Cadastro\formulario.cshtml
+C:\Users\Rabi Mustapha\Desktop\WebApp AspNet MVC\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Views\Livros\lista.cshtml
+C:\Users\Rabi Mustapha\Desktop\WebApp AspNet MVC\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\ListaLeitura.WebApp.deps.json
+C:\Users\Rabi Mustapha\Desktop\WebApp AspNet MVC\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\ListaLeitura.WebApp.runtimeconfig.json
+C:\Users\Rabi Mustapha\Desktop\WebApp AspNet MVC\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\ListaLeitura.WebApp.runtimeconfig.dev.json
+C:\Users\Rabi Mustapha\Desktop\WebApp AspNet MVC\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\ListaLeitura.WebApp.dll
+C:\Users\Rabi Mustapha\Desktop\WebApp AspNet MVC\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\ListaLeitura.WebApp.pdb
+C:\Users\Rabi Mustapha\Desktop\WebApp AspNet MVC\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\ListaLeitura.WebApp.csprojAssemblyReference.cache
+C:\Users\Rabi Mustapha\Desktop\WebApp AspNet MVC\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\ListaLeitura.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Rabi Mustapha\Desktop\WebApp AspNet MVC\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\ListaLeitura.WebApp.AssemblyInfoInputs.cache
+C:\Users\Rabi Mustapha\Desktop\WebApp AspNet MVC\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\ListaLeitura.WebApp.AssemblyInfo.cs
+C:\Users\Rabi Mustapha\Desktop\WebApp AspNet MVC\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\ListaLeitura.WebApp.dll
+C:\Users\Rabi Mustapha\Desktop\WebApp AspNet MVC\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\ListaLeitura.WebApp.pdb
+C:\Users\Rabi Mustapha\Desktop\WebApp AspNet MVC\WebApp ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Views\Cadastro\formulario.cshtml
+C:\Users\Rabi Mustapha\Desktop\WebApp AspNet MVC\WebApp ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Views\Livros\lista.cshtml
+C:\Users\Rabi Mustapha\Desktop\WebApp AspNet MVC\WebApp ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\ListaLeitura.WebApp.deps.json
+C:\Users\Rabi Mustapha\Desktop\WebApp AspNet MVC\WebApp ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\ListaLeitura.WebApp.runtimeconfig.json
+C:\Users\Rabi Mustapha\Desktop\WebApp AspNet MVC\WebApp ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\ListaLeitura.WebApp.runtimeconfig.dev.json
+C:\Users\Rabi Mustapha\Desktop\WebApp AspNet MVC\WebApp ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\ListaLeitura.WebApp.dll
+C:\Users\Rabi Mustapha\Desktop\WebApp AspNet MVC\WebApp ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\ListaLeitura.WebApp.pdb
+C:\Users\Rabi Mustapha\Desktop\WebApp AspNet MVC\WebApp ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\ListaLeitura.WebApp.csprojAssemblyReference.cache
+C:\Users\Rabi Mustapha\Desktop\WebApp AspNet MVC\WebApp ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\ListaLeitura.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Rabi Mustapha\Desktop\WebApp AspNet MVC\WebApp ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\ListaLeitura.WebApp.AssemblyInfoInputs.cache
+C:\Users\Rabi Mustapha\Desktop\WebApp AspNet MVC\WebApp ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\ListaLeitura.WebApp.AssemblyInfo.cs
+C:\Users\Rabi Mustapha\Desktop\WebApp AspNet MVC\WebApp ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\ListaLeitura.WebApp.dll
+C:\Users\Rabi Mustapha\Desktop\WebApp AspNet MVC\WebApp ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\ListaLeitura.WebApp.pdb
